@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "HP",
+      "price": 12000,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "macBook Air",
+      "price": 10000,
+      "checked": false
+    },
+    {
+      "name": "tdebde",
+      "price": "100000",
+      "checked": true,
+      "id": "4N6DSUF"
+    },
+    {
+      "name": "tdebde",
+      "price": "100000",
+      "checked": true,
+      "id": "pslDz7L"
+    },
+    {
+      "name": "tdebde",
+      "price": "100000",
+      "checked": true,
+      "id": "ImRZ0Vz"
+    },
+    {
+      "name": "szsz",
+      "price": "151",
+      "checked": true,
+      "id": "djy4ZiB"
+    },
+    {
+      "name": "frfr",
+      "price": "1800",
+      "checked": true,
+      "id": "fOHJvkj"
+    }
+  ]
+}
